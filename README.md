@@ -10,4 +10,4 @@ Render_Bogie.js
 
 
 
-CC-BU4.0を適用します。
+CC-BY4.0を適用します。
